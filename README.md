@@ -1,1 +1,1 @@
-# hotel_jakar
+# Plataforma de Reserva de Habitaciones de Hotel
